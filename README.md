@@ -4,3 +4,4 @@
 - 🌱 I’m currently learning python & javascript 
 - 📫 How to reach me @freqtions on twitter
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayamkv)
