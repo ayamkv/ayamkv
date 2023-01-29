@@ -1,19 +1,14 @@
-## 👋 hey, I'm ayamkv
-![visitors](https://page-views.glitch.me/badge?page_id=ayamkv.ayamkv)
-
-- 🌱 I’m currently learning python & javascript w/ svelte !
-- 📫 How to reach me [@freqtions](https://twitter.com/freqtions) on twitter
-
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ayamkv
+Hi 👋 My name is ayamkv
 ==============================================================================================================================
 
-Hobby 'Web Developer'
+***Hobby 'Web Developer'***
+
+![visitors](https://page-views.glitch.me/badge?page_id=ayamkv.ayamkv)
 
 *   🌍  I'm based in Indonesia
-*   🌱  I'm learning SvelteKit
+*   🌱  I'm currently learning Svelte
 
-### I've used 
+### 🛠️ I've used 
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -28,7 +23,7 @@ Hobby 'Web Developer'
 <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
 </p>
                     
-### Socials
+### 📬 Socials
                   
                   
 <p align="left">                          
