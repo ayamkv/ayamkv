@@ -1,9 +1,6 @@
-Hi 👋
-==============================================================================================================================
+# Hi 👋
 
-My nickname is ***Ayam***, 
-*  🌍  I'm based in Indonesia
-*  🌱  I'm currently learning Svelte
+My nickname is ***Ayam***, I'm a 'web developer, designer, videographer, and a highschooler based on Indonesia. I am currently learning the basics and highly interested into Svelte.
 
 ### 🛠️ I've used 
 <p align="center">
